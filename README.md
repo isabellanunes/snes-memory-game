@@ -12,7 +12,7 @@
 <br />
 
 <p align="center">
-    <img src=".readme/mobile-screen.png" width = "200px" />
+    <img src=".readme/mobile.png" width = "200px" />
 </p>
 
 <br />
