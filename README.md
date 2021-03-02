@@ -32,7 +32,7 @@ Done ✅
 
 ## Run
 
-Just open the `index.html`.
+Just open the `index.html` in a web server.
 
 ## License
 
