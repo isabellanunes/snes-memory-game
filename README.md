@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./assets/logo.png" width = "200px"/>
+    SNES Memory Game
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br />
 
 <p align="center">
-    <img src=".readme/mobile.png" width = "200px" />
+    <img src=".readme/screenshot.png" width = "200px" />
 </p>
 
 <br />
@@ -27,10 +27,13 @@
 
 This is a simple Memory Game with SNES characters.
 
+## Status
+Done ✅
+
 ## Run
 
 Just open the `index.html`.
 
 ## License
 
-This project is under the CC BY-SA 4.0. See [LICENSE](/LICENSE.md) file for more details.
+This project is under the MIT License. See [LICENSE](/LICENSE.md) file for more details.
