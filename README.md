@@ -12,28 +12,24 @@
 <br />
 
 <p align="center">
-    <img src=".readme/screenshot.png" width = "200px" />
+    <img src=".readme/image01.png" width = "200px" />
 </p>
 
 <br />
 
-## Technologies
-
+## Technologies ans requirements
 - HTML
 - CSS
 - JavaScript
 
 ## Project
-
 This is a simple Memory Game with SNES characters.
+
+## Run
+Just open the [index.html](index.html) in any web browser.
 
 ## Status
 Done ✅
 
-## Run
-
-Just open the `index.html` in a web server.
-
 ## License
-
 This project is under the MIT License. See [LICENSE](/LICENSE.md) file for more details.
